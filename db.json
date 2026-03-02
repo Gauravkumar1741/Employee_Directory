@@ -1,0 +1,33 @@
+{
+  "employees": [
+    {
+      "id": "b358",
+      "firstName": "gautam",
+      "lastName": "kumar",
+      "email": "21051649@kiit.ac.in",
+      "department": "manager"
+    },
+    {
+      "id": "7950",
+      "firstName": "saurav",
+      "lastName": "kumar",
+      "email": "gkrr8851@gmail.com",
+      "department": "Manager"
+    },
+    {
+      "id": "8f1f",
+      "firstName": "Gaurav",
+      "lastName": "kumar",
+      "email": "sdsy@gmail.com",
+      "department": "HR"
+    },
+    {
+      "id": "0776",
+      "firstName": "649_",
+      "lastName": "kumar",
+      "email": "21051549@kiit.ac.in",
+      "department": "HR"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
